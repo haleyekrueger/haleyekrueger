@@ -1,4 +1,4 @@
-Hi, I’m @haleyekrueger 🙋🏼‍♀️  studying computer science student at Oregon State University.
+Hi, I’m @haleyekrueger,  studying computer science student at Oregon State University.
 
 <!---
 haleyekrueger/haleyekrueger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
